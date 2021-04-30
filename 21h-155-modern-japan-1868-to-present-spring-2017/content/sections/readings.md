@@ -1,0 +1,69 @@
+---
+course_id: 21h-155-modern-japan-1868-to-present-spring-2017
+layout: course_section
+menu:
+  leftnav:
+    identifier: 60c01495fdd75b4da43c39e60e297cd7
+    name: Readings
+    weight: 30
+title: Readings
+type: course
+uid: 60c01495fdd75b4da43c39e60e297cd7
+
+---
+
+\[C\] = Cook, Haruko Taya, and Theodore F. Cook. _Japan at War: An Oral History_. New Press, 1992. ISBN: 9781565840393. 
+
+\[D\] = de Bary, William Theodore, Carol Gluck, and Arthur E. Tiedemann, eds. _Sources of Japanese Tradition, Volume 2, 1600 to 2000: Part 2: 1868 to 2000_. 2nd ed. Columbia University Press, 2006. ISBN: 9780231139199. \[Preview with [Google Books](https://books.google.com/books?id=DsALRa-r5QoC&pg=PAfrontcover&#v=onepage&q&f=false)\]
+
+\[G\] = Gordon, Andrew. _A Modern History of Japan: From Tokugawa Times to the Present_. 3rd ed. Oxford University Press, 2013. ISBN: 9780199930159.
+
+\[GR\] = Griffis, William Elliot. _The Mikado_. Audubon Press, 2009. ISBN: 9781444668124.
+
+\[T\] = Takekoshi Yosaburo. _Japanese Rule in Formosa_. Kessinger Publishing, LLC, 2010. ISBN: 9781163242445.
+
+| SES # | TOPICS | READINGS |
+| --- | --- | --- |
+| {{< td-colspan 3 >}}Week 1{{< /td-colspan >}} |||
+| 1 | Introduction | No readings assigned |
+| 2 | Japanese Business History | No readings assigned |
+| {{< td-colspan 3 >}}**Part I: From Samurai Government to a Modern Revolution**{{< /td-colspan >}} |||
+| {{< td-colspan 3 >}}Week 2: Samurai Order and Disorder{{< /td-colspan >}} |||
+| 3 | Building Pax Tokugawa |  {{< br >}}{{< br >}} Gluck, Carol.  "The Invention of Edo." Chapter 17 in _Mirror of Modernity: Invented Traditions of Modern Japan_. Edited by Stephen Vlastos. University of California Press, 1998. ISBN: 9780520206373. {{< br >}}{{< br >}} Ōishi Shinzaburō. "The Bakuhan System." Chapter 1 in _Tokugawa Japan: The Social and Economic Antecedents of Modern Japan_. Edited by Nakane Chie and Ōishi Shinzaburō, University of Tokyo Press, 1992. ISBN: 9780860084907. {{< br >}}{{< br >}} _Recommended_ {{< br >}}{{< br >}} \[G\] Chapter 1: The Tokugawa Polity. {{< br >}}{{< br >}} \[G\] Chapter 2: Social and Economic Transformations. {{< br >}}{{< br >}}  |
+| 4 | Samurai Disorder | de Bary, William Theodore, Carol Gluck, and Arthur E. Tiedemann, eds. "The Way of the Warrior II." Chapter 29 in _Sources of Japanese Tradition, Volume 2, 1600 to 2000: Part 1: 1600 to 1868_. 2nd ed. Columbia University Press, 2006. ISBN: 9780231139175. \[Preview with [Google Books](https://books.google.com/books?id=6O0bY4MRSpIC&pg=PA353=onepage#v=onepage&q&f=false)\] |
+| {{< td-colspan 3 >}}Week 3: The Decline of Tokugawa Shogunate{{< /td-colspan >}} |||
+| 5 | Troubles at Home, Dangers from Abroad |  {{< br >}}{{< br >}} Aizawa Seishisai. "New Theses: One - Prefatory Remarks." In _Anti-Foreignism and Western Learning in Early-Modern Japan: The New Theses of 1825_. Edited by Bob Tadashi Wakabayashi. Harvard University Asia Center, 1992. ISBN: 9780674040373. \[Preview with [Google Books](https://books.google.com/books?id=__VSPmKQ6_kC&pg=PA149=onepage#v=onepage&q&f=false)\] {{< br >}}{{< br >}} ———. "New Theses: Four - What is Essential to a Nation \[Kokutai\] (III)." In _Anti-Foreignism and Western Learning in Early-Modern Japan: The New Theses of 1825_. Edited by Bob Tadashi Wakabayashi. Harvard University Asia Center, 1992. ISBN: 9780674040373. \[Preview with [Google Books](https://books.google.com/books?id=__VSPmKQ6_kC&pg=PA184=onepage#v=onepage&q&f=false)\] {{< br >}}{{< br >}} ———. "New Theses: Six - The Barbarians' Nature." In _Anti-Foreignism and Western Learning in Early-Modern Japan: The New Theses of 1825_. Edited by Bob Tadashi Wakabayashi. Harvard University Asia Center, 1992. ISBN: 9780674040373. {{< br >}}{{< br >}} Katsu Kokichi. "Introduction." In _Musui’s Story: The Autobiography of a Tokugawa Samurai_. University of Arizona Press, 1991. ISBN: 9780816512560. {{< br >}}{{< br >}} ———. "Adult Years." In _Musui’s Story: The Autobiography of a Tokugawa Samurai_. University of Arizona Press, 1991. ISBN: 9780816512560. \[Preview with [Google Books](https://books.google.com/books?id=J4iiDEYziv0C&pg=PA71=onepage#v=onepage&q&f=false)\] {{< br >}}{{< br >}} _Recommended_ {{< br >}}{{< br >}} \[G\] Chapter 3: The Intellectual World of Late Tokugawa. {{< br >}}{{< br >}}  |
+| {{< td-colspan 3 >}}Week 4: Japan's _Modern_ Revolution?{{< /td-colspan >}} |||
+| 6 | Overthrowing the Shogunate |  {{< br >}}{{< br >}} \[D\] Notehelfer, Fred G. Chapter 35: The Meiji Restoration, pp. 5–10.  {{< br >}}{{< br >}} [1852 Letter of President Fillmore to the Emperor of Japan](http://exploringhist.blogspot.com/2016/05/1852-Letter-of-Fillmore-to-Emperor-of-Japan.html).  {{< br >}}{{< br >}} "[Black Ship and Samurai II - Commodore Perry and the Opening of Japan (1853–1854): Visual Narratives and “The ‘Black Ship Scroll’](https://ocw.mit.edu/ans7870/21f/21f.027/black_ships_and_samurai_02/index.html)." MIT Visualizing Cultures. {{< br >}}{{< br >}} _Recommended_ {{< br >}}{{< br >}} \[G\] Chapter 4: The Overflow of the Takugawa. {{< br >}}{{< br >}}  |
+| 7 | From “Restoration” to “Revolution” |  {{< br >}}{{< br >}} \[D\] Notehelfer, Fred G. Chapter 35: The Meiji Restoration, pp. 10–12.  {{< br >}}{{< br >}} \[GR\] Book II, Chapter 15: The Last Year of Feudalism. {{< br >}}{{< br >}} Jansen, Marius B., ed. "The Restoration in History and Historiography." Chapter 3, Section 9 in _The Emergence of Meiji Japan_. Cambridge University Press, 1995, pp. 196–202. ISBN: 9780521484053. {{< br >}}{{< br >}} _Recommended_ {{< br >}}{{< br >}} \[G\] Chapter 5: The Samurai Revolution. {{< br >}}{{< br >}}  |
+| {{< td-colspan 3 >}}**Part II: Competing Modernities**{{< /td-colspan >}} |||
+| {{< td-colspan 3 >}}Week 5: Building a Civilized Nation{{< /td-colspan >}} |||
+| 8 | The Politics of “Civilization and Enlightenment” |  {{< br >}}{{< br >}} \[D\] Notehelfer, Fred G. Chapter 35: The Meiji Restoration, pp. 12–17: The Abolition of Feudalism and the Centralization of the Meiji State.  {{< br >}}{{< br >}} \[D\] Craig, Albert. Chapter 36: Civilization and Enlightenment. {{< br >}}{{< br >}} "[Throwing Off Asia I - Woodblock Prints of Domestic 'Westernization' (1868–1912): Visual Narratives](https://ocw.mit.edu/ans7870/21f/21f.027/throwing_off_asia_01/index.html)." MIT Visualizing Cultures. {{< br >}}{{< br >}} _Recommended_ {{< br >}}{{< br >}} \[G\] Chapter 7: Social, Economic, and Cultural Transformations. {{< br >}}{{< br >}}  |
+| 9 | The Culture of Enlightenment |  {{< br >}}{{< br >}} \[GR\] Book II, Chapter 1: First Glimpses of Japan. {{< br >}}{{< br >}} \[GR\] Book II, Chapter 2: A Ride on the Tōkaidō. {{< br >}}{{< br >}} \[GR\] Book II, Chapter 3: In Tōkiō, the Eastern Capital. {{< br >}}{{< br >}} "[Yokohama Boomtown - Foreigners in Treaty-Port Japan (1859–1872): Visual Narratives](https://ocw.mit.edu/ans7870/21f/21f.027/yokohama/yb_visnav01.html)." MIT Visualizing Cultures. {{< br >}}{{< br >}} Kanagaki Robun. "The Beefeater.” In _Modern Japanese Literature: From 1868 to the Present Day_. Edited by Donald Keene. Grove Press, 1994. ISBN: 9780802150950. {{< br >}}{{< br >}} Hattori Bushō. “The Western Peep Show.”  In _Modern Japanese Literature: From 1868 to the Present Day_. Edited by Donald Keene. Grove Press, 1994. ISBN: 9780802150950. {{< br >}}{{< br >}}  |
+| {{< td-colspan 3 >}}Week 6: Democracy and Empire I{{< /td-colspan >}} |||
+| 10 | Democracy and Constitutional Government |  {{< br >}}{{< br >}} \[D\] Huffman, James. Chapter 37: Popular Rights and Constitutionalism. {{< br >}}{{< br >}} "[The Constitution of the Empire of Japan](http://www.ndl.go.jp/constitution/e/etc/c02.html)."  {{< br >}}{{< br >}} _Recommended_ {{< br >}}{{< br >}} \[G\] Chapter 6: Participation and Protest. {{< br >}}{{< br >}}  |
+| 11 | Meiji Imperialism |  {{< br >}}{{< br >}} \[D\] Notehelfer, Fred G. Chapter 35: The Meiji Restoration, pp. 17–24: Consequences of the Iwakura Mission: Saigō and Ōkubo on Korea. {{< br >}}{{< br >}} \[T\] Goto, Shimpei. "Preface." {{< br >}}{{< br >}} \[T\] "A Word to My Readers." {{< br >}}{{< br >}} \[T\] Chapter 1: Brief Survey of Our Successes. {{< br >}}{{< br >}} \[T\] Chapter 2: The Administration of Formosa Looked at From the Legislative Standpoint. {{< br >}}{{< br >}} Fukuzawa Yukichi. "Good-bye Asia (Datsu-a)." Chapter 12 in _Japan-A Documentary History: The Late Tokugawa Period to the Present_. Edited by David J. Lu. Routledge, 1996, pp. 351–3. ISBN: 9780765600363. {{< br >}}{{< br >}} _Recommended_ {{< br >}}{{< br >}} \[G\] Chapter 8: Empire and Domestic Order. {{< br >}}{{< br >}}  |
+| {{< td-colspan 3 >}}Week 7: Democracy and Empire II{{< /td-colspan >}} |||
+| 12 | Japan’s “Imperial Democracy” |  {{< br >}}{{< br >}} \[D\] Tiedemann, Arthur E. Chapter 40: The High Tide of Prewar Liberalism, pp. 148–80. {{< br >}}{{< br >}} "[Social Protest in Imperial Japan - The Hibaya Riot of 1905: Essay by Andrew Gordon](https://ocw.mit.edu/ans7870/21f/21f.027/social_protest_japan/index.html)." MIT Visualizing Cultures. {{< br >}}{{< br >}} _Recommended_ {{< br >}}{{< br >}} \[G\] Chapter 9: Economy and Society. {{< br >}}{{< br >}} \[G\] Chapter 10: Democracy and Empire between the World Wars. {{< br >}}{{< br >}}  |
+| {{< td-colspan 3 >}}**Part III: Modernity’s Crisis and its Aftermath**{{< /td-colspan >}} |||
+| {{< td-colspan 3 >}}Week 8: Japan’s Jazz Age and its Discontents{{< /td-colspan >}} |||
+| 13 | Sounds and Visions of Modernity | Kawabata Yasunari. Excerpt from _The Scarlet Gang of Asakusa_. University of California Press, 2005. ISBN: 9780520241824.  |
+| 14 | Ideologies of Crises |  {{< br >}}{{< br >}} \[D\] Barshay, Andrew. Chapter 41: Socialism and the Left. {{< br >}}{{< br >}} \[D\] Jansen, Marius. Chapter 42: The Rise of Revolutionary Nationalism. {{< br >}}{{< br >}} _Recommended_ {{< br >}}{{< br >}} \[G\] Chapter 11: The Depression Crisis and Responses. {{< br >}}{{< br >}}  |
+| {{< td-colspan 3 >}}Week 9: War on Multiple Fronts{{< /td-colspan >}} |||
+| 15 | Japan’s “World War II” |  {{< br >}}{{< br >}} \[D\] Duus, Peter. Chapter 43: Empire and War. {{< br >}}{{< br >}} _Recommended_ {{< br >}}{{< br >}} \[G\] Chapter 12: Japan in Wartime. {{< br >}}{{< br >}}  |
+| 16 | War Abroad and at Home |  {{< br >}}{{< br >}} \[C\] Chapter 2: Toward a New Order, pp. 47–50.  {{< br >}}{{< br >}} \[C\] Chapter 5: The Emperor's Warriors, pp. 127–34.  {{< br >}}{{< br >}} \[C\] Chapter 6: Demons from the East, pp. 151–67.  {{< br >}}{{< br >}} \[C\] Chapter 13: The Slaughter of an Army, pp. 267–76.  {{< br >}}{{< br >}} \[C\] Chapter 15: Special Attack, pp. 306–13. {{< br >}}{{< br >}} \[C\] Chapter 19: A Terrible New Weapon, pp. 382–91. {{< br >}}{{< br >}}  |
+| {{< td-colspan 3 >}}Week 10: Occupation and Beyond{{< /td-colspan >}} |||
+| 17 | The Allied Occupation |  {{< br >}}{{< br >}} \[D\] Mayo, Marlene. Chapter 44: The Occupation Years, 1945–1952, pp. 323–72. {{< br >}}{{< br >}} "[The Constitution of the Empire of Japan](http://www.ndl.go.jp/constitution/e/etc/c01.html)." {{< br >}}{{< br >}} _Recommended_ {{< br >}}{{< br >}} \[G\] Chapter 13: Occupied Japan: New Departures and Durable Structures. {{< br >}}{{< br >}}  |
+| {{< td-colspan 3 >}}**Part IV: History, Memory, and Media in Postwar Japan**{{< /td-colspan >}} |||
+| {{< td-colspan 3 >}}Week 11: Monsters, Imaginary and Real, in Postwar Japan{{< /td-colspan >}} |||
+| 18 | In-class Viewing: [_Gojira_](http://www.imdb.com/title/tt0047034/?ref_=nv_sr_2). Directed by Ishirô Honda. Color, 96 min. 1954. | No readings assigned |
+| 19 | Contextualizing "Gojira" |  {{< br >}}{{< br >}} \[D\] Gordon, Andrew. Chapter 45: Democracy and High Growth. {{< br >}}{{< br >}} _Recommended_ {{< br >}}{{< br >}} \[G\] Chapter 14: Economic and Social Transformations. {{< br >}}{{< br >}} \[G\] Chapter 15: Political Struggles and Settlements of the High-Growth Era. {{< br >}}{{< br >}}  |
+| {{< td-colspan 3 >}}Week 12: Geopolitics and Democracy in Contemporary Japan{{< /td-colspan >}} |||
+| 20 | Japan as “No. 1”? |  {{< br >}}{{< br >}} Vogel, Ezra F.  "A Mirror for America." Chapter 1 in _Japan as No. 1: Lessons for America_. iUniverse, 1999. ISBN: 9781583484104.  {{< br >}}{{< br >}} ———. "The Japanese Miracle." Chapter 2 in _Japan as No. 1: Lessons for America_. iUniverse, 1999. ISBN: 9781583484104.  {{< br >}}{{< br >}} McGray,Douglas. "[Japan’s Gross National Cool](http://foreignpolicy.com/2009/11/11/japans-gross-national-cool/)." _Foreign Policy,_ November 11, 2009. {{< br >}}{{< br >}} _Recommended_ {{< br >}}{{< br >}} \[G\] Chapter 16: Global Power in a Polarized World: Japan in the 1980s. {{< br >}}{{< br >}}  |
+| 21 | Democracy in Theory and Practice |  {{< br >}}{{< br >}} Nakano Koichi. "[Contemporary Political Dynamics of Japanese Nationalism](http://apjjf.org/2016/20/Nakano.html)." _Asia-Pacific Journal: Japan Focus_ 14, Issue 20, no. 6 (October 15, 2016). {{< br >}}{{< br >}} _Recommended_ {{< br >}}{{< br >}} \[G\] Chapter 17: Japan's "Lost Decades": 1989–2008. {{< br >}}{{< br >}} \[G\] Chapter 18: Shock, Disaster, and Aftermath: Japan Since 2008. {{< br >}}{{< br >}}  |
+| {{< td-colspan 3 >}}Week 13: History and Memory in Contemporary Japan{{< /td-colspan >}} |||
+| 22 | In-class Viewing: _[The Wind Rises](http://www.imdb.com/title/tt2013293/?ref_=nv_sr_1)_. Directed by Hayao Miyazaki.  Color, 126 min. 2013. | No readings assigned |
+| 23 | _The Wind Rises,_ cont.  | \[D\] Gluck, Carol. Chapter 49: Thinking with the Past: History Writing in Modern Japan, pp. 553–82: The Asia-Pacific War in History and Memory. |
+| {{< td-colspan 3 >}}Week 14: Presentations on Essay 3{{< /td-colspan >}} |||
+| 24 | Student Presentations | No readings assigned |
+| 25 | Student Presentations | No readings assigned
